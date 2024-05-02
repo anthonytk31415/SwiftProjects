@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Helen",
+        "sport" : "crossfit",
+        "workoutType": "time",
+        "numRounds": 3,
+        "workout": [
+            {
+                "name": "Run",
+                "quantity": 400,
+                "quantityUnit": "meters",
+            },
+            {
+                "name": "Kettlebell Swings",
+                "quantity": 21,
+                "quantityUnit": "reps",
+            },
+            {
+                "name": "Pull-ups",
+                "quantity": 12,
+                "quantityUnit": "reps",
+            }
+        ]
+    },
+    {
+        "name": "Hope",
+        "sport" : "crossfit",
+        "workoutType": "AMRAP",
+        "numRounds": 3,
+        "workout": [
+            {
+                "name": "Burpees",
+                "quantity": 1,
+                "quantityUnit": "min"
+            },
+            {
+                "name": "Power snatches",
+                "quantity": 1,
+                "quantityUnit": "min",
+                "dim": 55,
+                "dimUnit": "pounds"
+            },
+            {
+                "name": "Box jumps",
+                "quantity": 1,
+                "quantityUnit": "min",
+                "dim": 20,
+                "dimUnit": "in."
+            },
+            {
+                "name": "Thrusters",
+                "quantity": 1,
+                "quantityUnit": "min",
+            },
+            {
+                "name": "Chest-to-bar pull-ups",
+                "quantity": 1,
+                "quantityUnit": "min",
+            },
+            {
+                "name": "Rest",
+                "quantity": 1,
+                "quantityUnit": "min",
+            }
+        ]
+    },
+    {
+        "name": "Workout 21.3",
+        "sport": "crossfit",
+        "workoutType": "time",
+        "numRounds": 1,
+        "workout": [
+            {
+                "name": "Front Squats",
+                "quantity": 15,
+                "quantityUnit": "rep",
+                "dim": 65,
+                "dimUnit": "pounds"
+            },
+            {
+                "name": "Toes-to-Bars",
+                "quantity": 30,
+                "quantityUnit": "rep",
+                "dim": 65,
+                "dimUnit": "pounds"
+            },
+            {
+                "name": "Thrusters",
+                "quantity": 15,
+                "quantityUnit": "rep",
+                "dim": 65,
+                "dimUnit": "pounds"
+            },
+            {
+                "name": "Rest",
+                "quantity": 1,
+                "quantityUnit": "min",
+                "dim": 65,
+                "dimUnit": "pounds"
+            },
+            {
+                "name": "Front Squats",
+                "quantity": 15,
+                "quantityUnit": "rep",
+                "dim": 65,
+                "dimUnit": "pounds"
+            },
+            {
+                "name": "Chest-to-Bar Pull-Ups",
+                "quantity": 30,
+                "quantityUnit": "rep",
+                "dim": 65,
+                "dimUnit": "pounds"
+            },
+            {
+                "name": "Thrusters",
+                "quantity": 15,
+                "quantityUnit": "rep",
+                "dim": 65,
+                "dimUnit": "pounds"
+            },
+            {
+                "name": "Rest",
+                "quantity": 1,
+                "quantityUnit": "min",
+                "dim": 65,
+                "dimUnit": "pounds"
+            },
+            {
+                "name": "Front Squats",
+                "quantity": 15,
+                "quantityUnit": "rep",
+                "dim": 65,
+                "dimUnit": "pounds"
+            },
+            {
+                "name": "Bar Muscle-Ups",
+                "quantity": 30,
+                "quantityUnit": "rep",
+                "dim": 65,
+                "dimUnit": "pounds"
+            },
+            {
+                "name": "Thrusters",
+                "quantity": 15,
+                "quantityUnit": "rep",
+                "dim": 65,
+                "dimUnit": "pounds"
+            }
+        ]
+    },
+    {
+        "name": "Beginner Workout",
+        "sport": "rowing",
+        "workoutType": "time",
+        "numRounds": 1,
+        "workout": [
+            {
+                "name": "Rowing",
+                "quantity": 3,
+                "quantityUnit": "min",
+                "dim": 20,
+                "dimUnit": "spm",
+                "notes": "comfortable effort"
+            },
+            {
+                "name": "Rest",
+                "quantity": 1,
+                "quantityUnit": "min"
+            },
+            {
+                "name": "Rowing",
+                "quantity": 3,
+                "quantityUnit": "min",
+                "dim": 22,
+                "dimUnit": "spm",
+                "notes": "harder effort"
+            },
+            {
+                "name": "Rest",
+                "quantity": 1,
+                "quantityUnit": "min"
+            },
+            {
+                "name": "Rowing",
+                "quantity": 3,
+                "quantityUnit": "min",
+                "dim": 24,
+                "dimUnit": "spm",
+                "notes": "comfortable effort"
+            },
+            {
+                "name": "Rest",
+                "quantity": 1,
+                "quantityUnit": "min"
+            },
+            {
+                "name": "Rowing",
+                "quantity": 3,
+                "quantityUnit": "min",
+                "dim": 24,
+                "dimUnit": "spm",
+                "notes": "harder effort"
+            },
+            {
+                "name": "Rest",
+                "quantity": 1,
+                "quantityUnit": "min"
+            },
+            {
+                "name": "Steady State Rowing",
+                "quantity": 10,
+                "quantityUnit": "min",
+                "notes": "Choose your power and stroke rate"
+            }
+        ]
+    }
+]
